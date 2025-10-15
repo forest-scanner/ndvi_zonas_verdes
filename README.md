@@ -1,5 +1,4 @@
-Análisis de Evolución de NDVI en Zonas Verdes de Madrid: Zonas 2 y 3
-Descripción del Proyecto
+
 Este proyecto de investigación tiene como objetivo monitorizar y analizar la evolución temporal del NDVI (Índice de Vegetación de Diferencia Normalizada) en las principales zonas verdes de los distritos 2 y 3 de Madrid, con el fin de identificar patrones de cambio vegetal y proporcionar herramientas para la gestión ambiental urbana.
 
 🎯 Objetivo Principal
@@ -33,70 +32,54 @@ Detección de tendencias (mejora/estabilidad/regresión)
 
 Priorización de áreas que requieren intervención urgente
 
-3. Algoritmos Implementados
-python
-# Cálculo de tendencias
-tendencia = (NDVI_final - NDVI_inicial) / período
 
-# Clasificación por estado
-if tendencia > 0.001: estado = "MEJORANDO"
-elif tendencia < -0.001: estado = "REGRESANDO"
-else: estado = "ESTABLE"
-4. Visualización y Dashboard
-Series temporales interactivas
-
-Comparativas entre zonas verdes
-
-Indicadores de desempeño
-
-Alertas tempranas de degradación
 
 🛠️ Aplicaciones Prácticas
 Gestión Municipal
-Identificación temprana de estrés vegetal
+	Identificación temprana de estrés vegetal
 
-Optimización de recursos en mantenimiento de zonas verdes
+	Optimización de recursos en mantenimiento de zonas verdes
 
-Evaluación de impacto de políticas ambientales
+	Evaluación de impacto de políticas ambientales
 
-Planificación urbana sostenible
+	Planificación urbana sostenible
 
-Monitoreo Ambiental
-Alertas tempranas para prevención de degradación
+	Monitoreo Ambiental
+	Alertas tempranas para prevención de degradación
 
-Seguimiento de intervenciones de mejora
+	Seguimiento de intervenciones de mejora
 
-Benchmarking entre diferentes áreas verdes
+	Benchmarking entre diferentes áreas verdes
 
-Indicadores de sostenibilidad urbana
+	Indicadores de sostenibilidad urbana
 
 Toma de Decisiones
-Priorización de inversiones en áreas críticas
+	Priorización de inversiones en áreas críticas
+	
+	Evaluación de efectividad de programas de conservación
 
-Evaluación de efectividad de programas de conservación
+	Comunicación transparente con la ciudadanía
 
-Comunicación transparente con la ciudadanía
-
-Base científica para planes de desarrollo urbano
+	Base científica para planes de desarrollo urbano
 
 📈 Indicadores Clave
 Métricas Cuantitativas
-NDVI promedio por zona y temporalidad
+	NDVI promedio por zona y temporalidad
 
-Tasa de cambio anual del índice de vegetación
+	Tasa de cambio anual del índice de vegetación
 
-Variabilidad estacional del verdor
+	Variabilidad estacional del verdor
 
-Persistencia temporal de estados vegetativos
+	Persistencia temporal de estados vegetativos
 
 Indicadores de Desempeño
-Ranking de salud vegetal por zona verde
+	Ranking de salud vegetal por zona verde
 
-Mapas de calor de salud vegetal
+	Mapas de calor de salud vegetal
 
-Series temporales de evolución
+	Series temporales de evolución
 
-Alertas de degradación temprana
+	Alertas de degradación temprana
 
 Umbrales de Referencia
 python
@@ -137,29 +120,29 @@ Correlaciones con variables climáticas
 
 📱 Dashboard Interactivo
 Funcionalidades Principales
-Selección individual de zonas verdes
+	Selección individual de zonas verdes
 
-Comparativas temporales personalizadas
+	Comparativas temporales personalizadas
 
-Filtros por periodos específicos
+	Filtros por periodos específicos
 
-Descarga de informes ejecutivos
+	Descarga de informes ejecutivos
 
 Visualizaciones Disponibles
-Evolución temporal con líneas de tendencia
+	Evolución temporal con líneas de tendencia
 
-Distribución estadística por zona verde
+	Distribución estadística por zona verde
 
-Ranking comparativo de desempeño
+	Ranking comparativo de desempeño
 
-Análisis de tendencias anuales
+	Análisis de tendencias anuales
 
-Indicadores en Tiempo Real
-Estado actual de cada zona verde
+	Indicadores en Tiempo Real
+	Estado actual de cada zona verde
 
-Tendencias recientes (últimos 6 meses)
+	Tendencias recientes (últimos 6 meses)
 
-Alertas proactivas de posibles problemas
+	Alertas proactivas de posibles problemas
 
 Recomendaciones de intervención
 
