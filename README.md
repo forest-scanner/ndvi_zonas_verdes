@@ -1,6 +1,5 @@
-Análisis de Evolución de NDVI en Zonas Verdes de Madrid: Zonas 2 y 3
-Descripción del Proyecto
-Este proyecto de investigación tiene como objetivo monitorizar y analizar la evolución temporal del NDVI (Índice de Vegetación de Diferencia Normalizada) en las principales zonas verdes de los distritos 2 y 3 de Madrid, con el fin de:
+
+Este proyecto de investigación tiene como objetivo monitorizar y analizar la evolución temporal del NDVI (Índice de Vegetación de Diferencia Normalizada) en las principales zonas verdes de los distritos 2 y 3 de Madrid.
 
 🎯 Objetivo Principal
 Identificar y cuantificar las zonas verdes que presentan mayor regresión vegetal a lo largo del tiempo mediante el análisis del NDVI, proporcionando datos científicos para la toma de decisiones informadas en políticas de conservación y recuperación ambiental.
