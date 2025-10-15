@@ -247,4 +247,11 @@ Este proyecto está en constante evolución. Para sugerencias, colaboraciones o 
 <img width="720" height="443" alt="image" src="https://github.com/user-attachments/assets/e9e89980-41a0-4bcd-b968-9bb228b59556" />
 
 
+<img width="1680" height="572" alt="image" src="https://github.com/user-attachments/assets/e1723d71-d69f-4219-b3b4-7273eef9d174" />
+
+
+
+<img width="670" height="706" alt="image" src="https://github.com/user-attachments/assets/5e495cba-ca31-4ae5-9f1f-22b6b8f74236" />
+
+
 
