@@ -45,6 +45,11 @@ Series temporales de evolución
 Ranking de priorización para intervenciones
 <img width="1691" height="458" alt="image" src="https://github.com/user-attachments/assets/bff33cb2-46dd-4dfd-bd1c-10535b642bbb" />
 
+
+
+<img width="720" height="443" alt="image" src="https://github.com/user-attachments/assets/e9e89980-41a0-4bcd-b968-9bb228b59556" />
+
+
 🎓 Valor Añadido
 Este análisis proporciona una herramienta cuantitativa y objetiva para:
 
