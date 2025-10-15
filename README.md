@@ -43,6 +43,7 @@ Mapas de calor de salud vegetal
 Series temporales de evolución
 
 Ranking de priorización para intervenciones
+<img width="1691" height="458" alt="image" src="https://github.com/user-attachments/assets/bff33cb2-46dd-4dfd-bd1c-10535b642bbb" />
 
 🎓 Valor Añadido
 Este análisis proporciona una herramienta cuantitativa y objetiva para:
